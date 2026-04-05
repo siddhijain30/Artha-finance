@@ -101,6 +101,3 @@ Designed with responsiveness in mind to ensure seamless experience across all de
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License.
