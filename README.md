@@ -38,7 +38,9 @@ src/
 ├── utils/               # Formatting & Math Helpers
 └── data/                # Mock Data (JSON)
 
-✨ Key Features
+---
+
+##✨ Key Features
 1. 📊 Adaptive Dashboard
 Balance Trend: Time-series visualization tracking net worth
 Spending Breakdown: Interactive pie charts for expense categories
@@ -55,7 +57,10 @@ Category-based filtering with instant updates
 🌙 Dark Mode: Eye-friendly charcoal/slate palette
 💾 Persistence: Data + theme saved in localStorage
 🧩 Custom Hooks: Clean separation of logic & UI
-⚙️ Setup & Installation
+
+---
+
+##⚙️ Setup & Installation
 1. Clone the repository
 git clone https://github.com/siddhijain30/Artha-finance.git
 cd Artha-finance
@@ -65,7 +70,10 @@ npm install
 npm run dev
 4. Build for production
 npm run build
-🧠 Design Decisions
+
+---
+
+##🧠 Design Decisions
 
 Why Context API?
 Lightweight and efficient for managing global state without Redux complexity.
